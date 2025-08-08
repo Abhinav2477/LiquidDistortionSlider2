@@ -78,3 +78,4 @@ rgbKineticSlider = new rgbKineticSlider({
 
 
 
+
