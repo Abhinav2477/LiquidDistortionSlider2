@@ -1,10 +1,10 @@
 // images setup
 const images = [
-  "../img/1.jpg",
-  "../img/2.jpg",
-  "../img/3.jpg",
-  "../img/4.jpg",
-  "../img/5.jpg",
+    "https://github.com/Abhinav2477/LiquidDistortionSlider2/blob/fe9f902efe7ce88c4b15fcc0549b9b9b014e00bc/img/1.jpg",
+  "https://github.com/Abhinav2477/LiquidDistortionSlider2/blob/fe9f902efe7ce88c4b15fcc0549b9b9b014e00bc/img/2.jpg",
+  "https://github.com/Abhinav2477/LiquidDistortionSlider2/blob/fe9f902efe7ce88c4b15fcc0549b9b9b014e00bc/img/3.jpg",
+  "https://github.com/Abhinav2477/LiquidDistortionSlider2/blob/fe9f902efe7ce88c4b15fcc0549b9b9b014e00bc/img/4.jpg",
+  "https://github.com/Abhinav2477/LiquidDistortionSlider2/blob/fe9f902efe7ce88c4b15fcc0549b9b9b014e00bc/img/5.jpg",
 ];
 
 // content setup
@@ -73,5 +73,6 @@ rgbKineticSlider = new rgbKineticSlider({
   textSubTitleOffsetTop: 90, // subtitle offset top
   mobileTextSubTitleOffsetTop: 90, // mobile subtitle offset top
 });
+
 
 
