@@ -1,10 +1,10 @@
 // images setup
 const images = [
-  "../img/1.jpg",
-  "../img/2.jpg",
-  "../img/3.jpg",
-  "../img/4.jpg",
-  "../img/5.jpg",
+  "https://framerusercontent.com/images/ch36zTVoGPhI1fYyoABce0FqRk.webp",
+  "https://framerusercontent.com/images/3btmrXq36S9QvbU6aNzs1yrNp0.webp",
+  "https://framerusercontent.com/images/ROnyTOC1fF3GSTcwR8reGg9KeI.jpg",
+  "https://framerusercontent.com/images/I1KqK2Je8NfTkh4gYxDDjUDo78.jpg",
+  "https://framerusercontent.com/images/mppzVsVqpLGpeUNlwdZCidnJYGM.webp",
 ];
 
 // content setup
@@ -73,3 +73,4 @@ rgbKineticSlider = new rgbKineticSlider({
   textSubTitleOffsetTop: 90, // subtitle offset top
   mobileTextSubTitleOffsetTop: 90, // mobile subtitle offset top
 });
+
